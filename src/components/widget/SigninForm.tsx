@@ -94,7 +94,7 @@ const SigninForm = () => {
       <FieldsetRoot disabled={loading}>
         <CContainer mb={4} gap={1} align={"center"}>
           <Heading6 textAlign={"center"} fontWeight={"bold"}>
-            Portal GIS
+            Geo Portal
           </Heading6>
           <Text textAlign={"center"} fontSize={"sm"}>
             {l.login_form.description}

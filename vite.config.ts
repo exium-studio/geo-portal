@@ -21,7 +21,7 @@ export default defineConfig({
       manifest: {
         name: "portal-gis",
         short_name: "portal-gis",
-        description: "Portal GIS",
+        description: "Geo Portal",
         start_url: "/",
         scope: "/",
         display: "standalone",
