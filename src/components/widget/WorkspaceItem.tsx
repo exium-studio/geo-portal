@@ -260,6 +260,7 @@ const EditWorkspace = (props: any) => {
                   label={"Thumbnail"}
                   invalid={!!formik.errors.thumbnail}
                   errorText={formik.errors.thumbnail as string}
+                  optional
                 >
                   {!empty(existingThumbnail) && (
                     <CContainer>
