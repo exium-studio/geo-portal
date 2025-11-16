@@ -128,10 +128,7 @@ const RootPage = () => {
             GeoPortal
           </P>
           <P fontSize={"xl"} fontWeight={"bold"} textAlign={"center"}>
-            {l.root_title}
-          </P>
-          <P fontSize={"xl"} fontWeight={"bold"} textAlign={"center"}>
-            (PTPN II)
+            "One Map Policy"
           </P>
           <P textAlign={"center"} my={4}>
             {l.root_subtitle}
