@@ -128,6 +128,9 @@ const RootPage = () => {
             GeoPortal
           </P>
           <P fontSize={"xl"} fontWeight={"bold"} textAlign={"center"}>
+            Sulawesi Tengah
+          </P>
+          <P fontSize={"xl"} fontWeight={"bold"} textAlign={"center"}>
             "One Map Policy"
           </P>
           <P textAlign={"center"} my={4}>
